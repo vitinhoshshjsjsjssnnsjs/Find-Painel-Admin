@@ -12,10 +12,10 @@ C = "\033[0;37m"
 subprocess.call("clear", shell=True)
 print("""
 --------------------------
-| Autor: Mister Cyber    |
-| Canal: Legiao Anonyma  |
+| Autor: Victor whith    |
+| Canal: karpagames      |
 | Team : GHS | C.I.H     |
-| Data : 06/09/2018      |
+| Data : 06/03/2020      |
 | Versa: 1.0             |
 --------------------------\n""")
 
